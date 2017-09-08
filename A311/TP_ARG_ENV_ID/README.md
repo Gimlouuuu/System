@@ -20,3 +20,6 @@ Exercice 3 :
 
 Exercice 4 :
 	- Voir exercice_4.md
+	- Création du programme myid.c :DONE;
+	- Recherche de documentation sur getuid() et getgid() sur internet : DONE;
+	- Finalisation et verification du programme : DONE;
